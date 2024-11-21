@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Barcode Scanner with Inventory & Order Manager - (basic)"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-20 02:20+0000\n"
+"PO-Revision-Date: 2022-03-22 14:00+0000\n"
+"Last-Translator: LoomisWeb\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.8.3\n"
+"X-Domain: us-barcode-scanner"
+
+#: src/features/settings/views/tab-app.php:34
+msgid "Actions"
+msgstr "Ações"
+
+#: src/features/settings/views/tab-prices.php:71
+msgid "Add custom price"
+msgstr "Adicionar preço personalizado"
+
+#: src/features/settings/views/tab-app.php:23
+msgid ""
+"Add users who should have access to products from Mobile Barcode Scanner"
+msgstr ""
+"Adicione usuários que devem ter acesso a produtos do Mobile Barcode Scanner"
+
+#: src/features/settings/views/tab-general.php:40
+msgid "Allow negative stock quantity"
+msgstr "Permitir quantidade de estoque negativa"
+
+#: src/features/settings/views/tab-permissions.php:23
+msgid "Allows to display search popup for users on frontend/website."
+msgstr "Permite exibir pop-up de pesquisa para usuários no frontend/site."
+
+#: src/features/settings/views/tab-prices.php:21
+msgid "Always use Custom price"
+msgstr "Sempre use preço personalizado"
+
+#: src/features/settings/views/tab-prices.php:15
+msgid "Always use Regular price"
+msgstr "Sempre use o preço normal"
+
+#: src/features/settings/views/tab-prices.php:18
+msgid "Always use Sale price"
+msgstr "Sempre use o preço de venda"
+
+#: src/features/settings/views/tab-app.php:47
+msgid "App installation & Login instructions"
+msgstr "Instruções de instalação e login do aplicativo"
+
+#: src/Languages.php:48
+msgid "Apply"
+msgstr "Aplicar"
+
+#: src/features/settings/index.php:12
+msgid "Barcode Scanner settings"
+msgstr "Configurações do scanner de código de barras"
+
+#. Name of the plugin
+msgid "Barcode Scanner with Inventory & Order Manager - (basic)"
+msgstr ""
+"Leitor de código de barras com gerenciador de estoque e pedidos - (básico)"
+
+#: src/Languages.php:93
+msgid "Billing"
+msgstr "Cobrança"
+
+#: src/Languages.php:39
+msgid "CANCEL"
+msgstr "CANCELAR"
+
+#: src/Languages.php:44 src/Languages.php:45 src/Languages.php:83
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/features/settings/views/tab-license.php:11
+msgid "Check"
+msgstr "Verificar"
+
+#: src/Languages.php:96
+msgid "Check internet connection."
+msgstr "Verifique a conexão com a internet."
+
+#: src/Languages.php:7
+msgid "Close"
+msgstr "Fechar"
+
+#: src/Languages.php:24
+msgid "Create"
+msgstr "Criar"
+
+#: src/features/settings/views/tab-general.php:94
+msgid ""
+"Create new custom field for products and variations which can be used for "
+"product search"
+msgstr ""
+"Crie um novo campo personalizado para produtos e variações que podem ser "
+"usados para pesquisa de produtos"
+
+#: src/Languages.php:89
+msgid "Create new user"
+msgstr "Criar novo usuário"
+
+#: src/Languages.php:6 src/features/settings/views/tab-permissions.php:19
+msgid "Create Order"
+msgstr "Criar pedido"
+
+#: src/features/logs/Logs.php:94
+msgid "Create order"
+msgstr "Criar pedido"
+
+#: src/features/settings/views/tab-general.php:81
+msgid "Create search field"
+msgstr "Criar campo de pesquisa"
+
+#: src/Languages.php:54 src/features/logs/Logs.php:93
+msgid "Create user"
+msgstr "Criar usuário"
+
+#: src/Languages.php:43
+msgid "created"
+msgstr "criado"
+
+#: src/features/settings/views/tab-prices.php:95
+msgid "Custom field"
+msgstr "Campo customizado"
+
+#: src/Languages.php:80
+msgid "Custom field name"
+msgstr "Nome do campo personalizado"
+
+#: src/Languages.php:92
+msgid "Customer note:"
+msgstr "Nota do cliente:"
+
+#: src/Languages.php:47
+msgid "Customer provided note"
+msgstr "Nota fornecida pelo cliente"
+
+#: src/features/settings/views/tab-general.php:61
+msgid "Debug information"
+msgstr "Informações de depuração"
+
+#: src/Languages.php:12
+msgid "Decrease product quantity right after you scan product barcode."
+msgstr ""
+"Diminua a quantidade do produto logo após digitalizar o código de barras do "
+"produto."
+
+#: src/features/settings/views/tab-general.php:7
+msgid "Default order status"
+msgstr "Status do pedido padrão"
+
+#: src/Languages.php:62
+msgid "Discount"
+msgstr "Desconto"
+
+#: src/features/settings/views/tab-general.php:102
+msgid "Display name"
+msgstr "Nome em Exibição"
+
+#: src/Languages.php:15
+msgid "Do after search:"
+msgstr "Faça após a pesquisa:"
+
+#: src/Languages.php:52
+msgid "Email:"
+msgstr "E-mail:"
+
+#: src/features/settings/views/tab-app.php:56
+msgid "Empty list"
+msgstr "Lista vazia"
+
+#: src/features/settings/views/tab-general.php:53
+#: src/features/settings/views/tab-general.php:74
+msgid "Enable"
+msgstr "Habilitar"
+
+#: src/Languages.php:27
+msgid "enable"
+msgstr "habilitar"
+
+#: src/features/settings/views/tab-general.php:128
+msgid "Enable search optimization index"
+msgstr "Ativar índice de otimização de pesquisa"
+
+#: src/features/logs/Logs.php:81
+msgid "Enable stock"
+msgstr "Ativar estoque"
+
+#: src/Languages.php:73
+msgid "Enter"
+msgstr "Digitar"
+
+#: src/Languages.php:53
+msgid "Enter user email"
+msgstr "Digite o e-mail do usuário"
+
+#: src/Languages.php:51
+msgid "Enter user name"
+msgstr "Insira nome de usuário"
+
+#: src/features/products/Products.php:40 src/features/products/Products.php:67
+msgid "Enter value"
+msgstr "Insira o valor"
+
+#: src/features/settings/views/tab-prices.php:87
+msgid "Field label name"
+msgstr "Nome do rótulo do campo"
+
+#: src/Languages.php:49
+msgid "Fill attributes to add product:"
+msgstr "Preencha os atributos para adicionar o produto:"
+
+#: src/Languages.php:61
+msgid "Find & add products"
+msgstr "Localizar e adicionar produtos"
+
+#: src/features/settings/views/tab-app.php:8
+msgid "Find and add user"
+msgstr "Localizar e adicionar usuário"
+
+#: src/Languages.php:10
+msgid "Find item and open it in new a window for editing."
+msgstr "Encontre o item e abra-o em uma nova janela para edição."
+
+#: src/features/settings/views/tab-permissions.php:21
+msgid "Frontend popup"
+msgstr "Pop-up de front-end"
+
+#: src/features/settings/index.php:15
+msgid "General"
+msgstr "Em geral"
+
+#. Author URI of the plugin
+msgid "http://www.ukrsolution.com"
+msgstr "http://www.ukrsolution.com"
+
+#. URI of the plugin
+msgid ""
+"https://www.ukrsolution.com/Wordpress/WooCommerce-Barcode-QRCode-Scanner-"
+"Reader"
+msgstr ""
+"https://www.ukrsolution.com/Wordpress/WooCommerce-Barcode-QRCode-Scanner-"
+"Reader"
+
+#: src/features/settings/views/tab-app.php:31
+msgid "ID"
+msgstr "identificação"
+
+#: src/Languages.php:14
+msgid "Increase product quantity right after you scan product barcode."
+msgstr ""
+"Aumente a quantidade do produto logo após digitalizar o código de barras do "
+"produto."
+
+#: src/Languages.php:38
+msgid "Increase search speed"
+msgstr "Aumente a velocidade de pesquisa"
+
+#: src/features/settings/views/tab-app.php:33
+msgid "Instructions"
+msgstr "Instruções"
+
+#: src/Languages.php:4 src/features/settings/views/tab-permissions.php:17
+msgid "Inventory"
+msgstr "Inventário"
+
+#: src/features/settings/index.php:58
+msgid "is incorrect"
+msgstr "está incorreto"
+
+#: src/Languages.php:88
+msgid "Items Subtotal:"
+msgstr "Subtotal de itens:"
+
+#: src/Languages.php:82
+msgid "languages"
+msgstr "línguas"
+
+#: src/features/settings/index.php:23
+msgid "License"
+msgstr "Licença"
+
+#: src/features/settings/views/tab-license.php:7
+msgid "License key"
+msgstr "Chave de licença"
+
+#: src/Languages.php:17
+msgid "Looking for item..."
+msgstr "Procurando artigo..."
+
+#: src/Languages.php:29
+msgid "Manage stock"
+msgstr "Gerenciar estoque"
+
+#: src/Languages.php:32
+msgid "more"
+msgstr "mais"
+
+#: src/features/settings/views/tab-app.php:32
+msgid "Name"
+msgstr "Nome"
+
+#: src/features/logs/Logs.php:89
+msgid "New product"
+msgstr "Novo produto"
+
+#: src/features/settings/views/tab-general.php:27
+msgid "New product code field"
+msgstr "Novo campo de código do produto"
+
+#: src/Languages.php:23
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: src/Languages.php:9
+msgid "Open product"
+msgstr "Abrir produto"
+
+#: src/Languages.php:70
+msgid "Optimize"
+msgstr "Otimizar"
+
+#: src/Languages.php:20
+msgid "OPTIMIZE SEARCH"
+msgstr "OTIMIZAR A PESQUISA"
+
+#: src/Languages.php:30
+msgid "option for variation on"
+msgstr "opção de variação de"
+
+#: src/Languages.php:42
+msgid "Order"
+msgstr "Ordem"
+
+#: src/Languages.php:87
+msgid "Order Total:"
+msgstr "Total de pedidos:"
+
+#: src/Languages.php:5 src/Languages.php:81
+#: src/features/settings/views/tab-permissions.php:18
+msgid "Orders"
+msgstr "Pedidos"
+
+#: src/Languages.php:33
+msgid "Parent quantity"
+msgstr "Quantidade pai"
+
+#: src/Languages.php:58
+msgid "Price"
+msgstr "Preço"
+
+#: src/Languages.php:35
+msgid "Price is not editable for parent product."
+msgstr "O preço não é editável para o produto pai."
+
+#: src/features/settings/index.php:16
+msgid "Prices"
+msgstr "Preços"
+
+#: src/Languages.php:57
+msgid "Product"
+msgstr "produtos"
+
+#: src/features/logs/Logs.php:88
+msgid "Product name"
+msgstr "Nome do Produto"
+
+#: src/Languages.php:31
+msgid "product page"
+msgstr "página do produto"
+
+#: src/Languages.php:78
+msgid "Products"
+msgstr "Produtos"
+
+#: src/Languages.php:59
+msgid "Qty"
+msgstr "Quantidade"
+
+#: src/features/settings/views/tab-general.php:154
+msgid "records indexed of"
+msgstr "registros indexados de"
+
+#: src/Languages.php:25
+msgid "refresh"
+msgstr "atualizar"
+
+#: src/features/logs/Logs.php:86
+msgid "Regular Price"
+msgstr "Preço regular"
+
+#: src/Languages.php:34
+msgid "Regular price"
+msgstr "Preço regular"
+
+#: src/features/settings/views/tab-app.php:50
+msgid "Remove"
+msgstr "Remover"
+
+#: src/features/settings/views/tab-permissions.php:16
+msgid "Role"
+msgstr "Função"
+
+#: src/features/logs/Logs.php:87
+msgid "Sale Price"
+msgstr "Preço de venda"
+
+#: src/Languages.php:84
+msgid "Save"
+msgstr "Salvar"
+
+#: src/features/settings/views/tab-license.php:18
+#: src/features/settings/views/tab-general.php:184
+#: src/features/settings/views/tab-permissions.php:79
+#: src/features/settings/views/tab-prices.php:109
+#: src/features/settings/views/tab-app.php:90
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: src/Languages.php:72
+msgid "Scan"
+msgstr "Escanear"
+
+#: src/Languages.php:21 src/Languages.php:90
+msgid "Scan barcode"
+msgstr "Digitalizar código de barras"
+
+#. Description of the plugin
+msgid "Scan barcodes to find & manage inventory and orders."
+msgstr ""
+"Digitalize códigos de barras para encontrar e gerenciar estoque e pedidos."
+
+#: src/Languages.php:74
+msgid "Search"
+msgstr "Procurar"
+
+#: src/Languages.php:76
+msgid "Search fields"
+msgstr "Campos de pesquisa"
+
+#: src/Languages.php:65
+msgid "search fields"
+msgstr "campos de pesquisa"
+
+#: src/Languages.php:64
+msgid "search fields & languages"
+msgstr "campos de pesquisa e idiomas"
+
+#: src/Languages.php:19
+msgid "Search takes too long."
+msgstr "A pesquisa demora muito."
+
+#: src/Languages.php:77
+msgid "Select fields that will be used to find products and orders"
+msgstr "Selecione os campos que serão usados para encontrar produtos e pedidos"
+
+#: src/features/settings/views/tab-app.php:71
+msgid "Send next instructions to user by email or messenger:"
+msgstr "Envie as próximas instruções ao usuário por e-mail ou messenger:"
+
+#: src/features/logs/Logs.php:90
+msgid "Set product image"
+msgstr "Definir imagem do produto"
+
+#: src/Languages.php:94
+msgid "Shipping"
+msgstr "Envio"
+
+#: src/features/settings/views/tab-prices.php:39
+msgid "Show regular price"
+msgstr "Mostrar preço normal"
+
+#: src/features/settings/views/tab-prices.php:55
+msgid "Show sale price"
+msgstr "Mostrar preço de venda"
+
+#: src/features/frontend/Frontend.php:66
+msgid "Show Scanner"
+msgstr "Mostrar scanner"
+
+#: src/features/logs/Logs.php:80
+msgid "SKU"
+msgstr "SKU"
+
+#: src/features/settings/views/tab-general.php:115
+msgid "Speed up search"
+msgstr "Acelerar a pesquisa"
+
+#: src/Languages.php:40
+msgid "START"
+msgstr "COMEÇAR"
+
+#: src/features/settings/views/tab-general.php:136
+#: src/features/settings/views/tab-general.php:147
+msgid "Start indexation"
+msgstr "Iniciar indexação"
+
+#: src/Languages.php:46
+msgid "Status"
+msgstr "Status"
+
+#: src/features/logs/Logs.php:82
+msgid "Stock (+1)"
+msgstr "Estoque (+1)"
+
+#: src/features/logs/Logs.php:83
+msgid "Stock (-1)"
+msgstr "Estoque (-1)"
+
+#: src/Languages.php:26
+msgid "Stock is disabled"
+msgstr "O estoque está desativado"
+
+#: src/Languages.php:13
+msgid "Stock Qty (+1)"
+msgstr "Quantidade (+1)"
+
+#: src/Languages.php:11
+msgid "Stock Qty (-1)"
+msgstr "Quantidade (-1)"
+
+#: src/features/logs/Logs.php:85
+msgid "Stock updated"
+msgstr "Estoque atualizado"
+
+#: src/features/logs/Logs.php:84
+msgid "Stock updated (Order creation)"
+msgstr "Estoque atualizado (criação do pedido)"
+
+#: src/Languages.php:66
+msgid "Success"
+msgstr "Sucesso"
+
+#: src/features/settings/views/tab-permissions.php:8
+msgid "Tabs permissions:"
+msgstr "Permissões de guias:"
+
+#: src/Languages.php:69
+msgid "Takes too long?"
+msgstr "Leva muito tempo?"
+
+#: src/Languages.php:86
+msgid "Tax:"
+msgstr "Imposto:"
+
+#: src/Languages.php:28
+msgid ""
+"This variation configured to use parent quantity. If you need separate "
+"quantity for this variation then enable "
+msgstr ""
+"Essa variação configurada para usar a quantidade pai. Se você precisar de "
+"quantidade separada para esta variação, ative"
+
+#: src/Languages.php:68
+msgid "Time left:"
+msgstr "Tempo restante:"
+
+#: src/Languages.php:16
+msgid "Toggle mute"
+msgstr "Alternar mudo"
+
+#: src/Languages.php:60
+msgid "Total"
+msgstr "Total"
+
+#: src/Languages.php:97
+msgid "Try to optimize search."
+msgstr "Tente otimizar a pesquisa."
+
+#: src/Languages.php:91
+msgid "Type ID"
+msgstr "Digite o ID"
+
+#: src/Languages.php:22
+msgid "Type ID/SKU/Name"
+msgstr "Digite o ID/SKU/Nome"
+
+#. Author of the plugin
+msgid "UkrSolution"
+msgstr "UkrSolution"
+
+#: src/features/settings/views/tab-general.php:176
+msgid "Update all products"
+msgstr "Atualizar todos os produtos"
+
+#: src/features/logs/Logs.php:91
+msgid "Update meta field"
+msgstr "Atualizar metacampo"
+
+#: src/features/logs/Logs.php:92
+msgid "Update order status"
+msgstr "Atualizar status do pedido"
+
+#: src/features/settings/views/tab-prices.php:7
+msgid "Use price to create order"
+msgstr "Use o preço para criar o pedido"
+
+#: src/features/settings/views/tab-general.php:32
+#: src/features/settings/views/tab-general.php:107
+msgid "Use this field for newly created products"
+msgstr "Use este campo para produtos recém-criados"
+
+#: src/Languages.php:55
+msgid "User"
+msgstr "Cliente"
+
+#: src/Languages.php:50
+msgid "Username:"
+msgstr "Nome do usuário:"
+
+#: src/Languages.php:18
+msgid "variation"
+msgstr "variação"
+
+#: src/Languages.php:79
+msgid "Variation Description"
+msgstr "Descrição da Variação"
+
+#: src/Languages.php:37
+msgid "We are sorry"
+msgstr "Nos desculpe"
+
+#: src/features/settings/views/tab-app.php:66
+#, php-format
+msgid "What smartphone %s has ?"
+msgstr "Que smartphone %s tem?"
+
+#: src/features/settings/views/tab-prices.php:12
+msgid "WooCommerce default"
+msgstr "Padrão WooCommerce"
+
+#: src/features/settings/views/tab-general.php:164
+msgid "wpml languages"
+msgstr "idiomas wpml"
+
+#: src/Languages.php:8
+msgid "You don't have permissions to this actions"
+msgstr "Você não tem permissões para essas ações"

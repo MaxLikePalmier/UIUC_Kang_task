@@ -1,0 +1,7 @@
+[ClickTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+NavigateTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+NavigateBackTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+ExtractTextTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+ExtractHyperlinksTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+GetElementsTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>), 
+CurrentWebPageTool(sync_browser=<Browser type=<BrowserType name=chromium executable_path=C:\Users\Max\AppData\Local\ms-playwright\chromium-1140\chrome-win\chrome.exe> version=130.0.6723.31>)]

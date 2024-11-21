@@ -1,0 +1,12 @@
+{
+    "name": "ukrsolution/wp-scanner",
+    "require": {},
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "UkrSolution\\BarcodeScanner\\": "src"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<div style='width: 100%;padding: 3mm 1mm;font-size: 12px;font-family: Roboto, sans-serif'>
+  <div style='text-align: center;line-height:1'>
+    <div><b>[store-name]</b></div>
+    <div>[store-postcode], [store-address], [store-address-2]</div>
+    <div>[store-country] [store-state] [store-city]</div>
+  </div>
+    <div style='border-top: 1px solid black;margin: 2mm 0'></div>
+  <!-- 
+  To display barcode on the receipt, get a "Barcode Generator" plugin:   
+    https:
+    And uncomment the line bellow:
+       <div style="height:30px;overflow:hidden;width:80%;margin:auto">[barcode id=order_id shortcode=2]</div>
+  -->
+    <div align="center">Order #: [order-id]</div>
+  <div style='border-top: 1px solid black;margin: 2mm 0'></div>
+    <table style='width: 100%;font-size: 10px'>
+    [product-list-start test-products=10]
+      <tr>
+        <td style='width: 100%'>
+          [product-name] 
+          <br />
+          [product-sku]
+        </td>
+        <td style='padding-right: 1mm'>
+          [order-product-qty] x
+          <div style="text-decoration: line-through">[item-regular-price]</div>
+          [item-price]
+        </td>
+        <td>[item-price-total]</td>
+      </tr>
+    [product-list-end]
+  </table>
+  <div style='border-top: 1px solid black;margin: 2mm 0'></div>
+  <table style='width: 100%;font-size: 10px'>
+    <!--<tr>
+      <td>Payment</td>
+      <td style='text-align: right'>[payment-name]</td>
+    </tr>-->
+    <tr>
+      <td>Shipping</td>
+      <td style='text-align: right'>[order-shipping]</td>
+    </tr>
+    <tr>
+      <td>Shipping tax</td>
+      <td style='text-align: right'>[order-shipping-tax]</td>
+    </tr>
+    <tr>
+      <td>Subtotal</td>
+      <td style='text-align: right'>[order-subtotal]</td>
+    </tr>
+    <tr>
+      <td>Subtotal tax</td>
+      <td style='text-align: right'>[order-subtotal-tax]</td>
+    </tr>
+    <tr>
+      <td>Total tax</td>
+      <td style='text-align: right'>[order-tax]</td>
+    </tr>
+    <tr>
+      <td style='font-weight:bold'>Total</td>
+      <td style='text-align: right;font-weight:bold'>[order-total]</td>
+    </tr>
+  </table>
+  <div style="display:none; font-size:10px; text-align:center">[customer-order-note]</div>
+  <div style='border-top: 1px solid black;margin: 1mm 0'></div>
+  <div style='text-align: center;font-size:10px'>[order-date]</div>
+</div>
